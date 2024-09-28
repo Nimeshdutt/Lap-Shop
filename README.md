@@ -7,9 +7,6 @@ Seamless shopping, search and explore different product categories, add products
 Become a seller and add products, monitor sales, and gather customer feedback.
 </h3>
 
-
-
-
 # About
 
 Lap-Shop is an ecommerce site developed using the MERN (MongoDB, Express.js, React, Node.js) stack. It offers a user-friendly and efficient shopping experience for customers, while providing sellers with essential tools to manage their products and sales.
@@ -36,33 +33,3 @@ Lap-Shop is an ecommerce site developed using the MERN (MongoDB, Express.js, Rea
 - Backend: Node.js, Express.js, JWT Token
 - Database: MongoDB
 - Data Visualization: React Apexcharts
-
-<br>
-
-# Installation
-
-Terminal 1: Setting Up Backend 
-```sh
-cd backend
-npm install
-npm start
-```
-
-Create a file called .env in the backend folder.
-Inside it write this :
-
-
-Instead of this link write your database link.
-
-Terminal 2: Setting Up Frontend
-
-cd frontend
-npm install
-npm start
-
-Now, navigate to `localhost:3000` in your browser. 
-The Backend API will be running at `localhost:5000`.
-
-
-
-
